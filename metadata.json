@@ -1,0 +1,6 @@
+{
+  "name": "Coptic Orthodox Seminary Portal",
+  "description": "Official academic portal of Pope Cyril Pillar of Faith & Pope Shenouda III Coptic Orthodox Theological Seminary, Mahalla El-Kubra Branch. Features four-year course catalogs, student results search via National ID, and statistical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
